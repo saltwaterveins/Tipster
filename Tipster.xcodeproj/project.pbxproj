@@ -14,6 +14,19 @@
 		7F9F6D281C2A204C0040ACE5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D261C2A204C0040ACE5 /* LaunchScreen.storyboard */; };
 		7F9F6D331C2A204D0040ACE5 /* TipsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F6D321C2A204D0040ACE5 /* TipsterTests.swift */; };
 		7F9F6D3E1C2A204D0040ACE5 /* TipsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F6D3D1C2A204D0040ACE5 /* TipsterUITests.swift */; };
+		7F9F6D501C2C3EEB0040ACE5 /* SettingsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F6D4F1C2C3EEB0040ACE5 /* SettingsTableViewController.swift */; };
+		7F9F6D521C2CC2AF0040ACE5 /* DefaultTipViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F6D511C2CC2AF0040ACE5 /* DefaultTipViewController.swift */; };
+		7F9F6D541C34CBDE0040ACE5 /* DefaultCircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D531C34CBDE0040ACE5 /* DefaultCircle.jpg */; };
+		7F9F6D561C34E05B0040ACE5 /* cherryCircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D551C34E05B0040ACE5 /* cherryCircle.jpg */; };
+		7F9F6D581C34E4810040ACE5 /* cakecircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D571C34E4810040ACE5 /* cakecircle.jpg */; };
+		7F9F6D5A1C34E8FE0040ACE5 /* strawberrycircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D591C34E8FE0040ACE5 /* strawberrycircle.jpg */; };
+		7F9F6D5C1C34EBE40040ACE5 /* lilaccircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D5B1C34EBE40040ACE5 /* lilaccircle.jpg */; };
+		7F9F6D5E1C352FAD0040ACE5 /* autumncircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D5D1C352FAD0040ACE5 /* autumncircle.jpg */; };
+		7F9F6D601C3530710040ACE5 /* chocolatecircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D5F1C3530710040ACE5 /* chocolatecircle.jpg */; };
+		7F9F6D621C3534330040ACE5 /* coolcircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D611C3534330040ACE5 /* coolcircle.jpg */; };
+		7F9F6D641C3534E10040ACE5 /* campcircle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D631C3534E10040ACE5 /* campcircle.jpg */; };
+		7F9F6D661C35DEED0040ACE5 /* coverpercent.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7F9F6D651C35DEED0040ACE5 /* coverpercent.jpg */; };
+		7F9F6D681C35ECF30040ACE5 /* ThemesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F9F6D671C35ECF30040ACE5 /* ThemesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		7F9F6D391C2A204D0040ACE5 /* TipsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F9F6D3D1C2A204D0040ACE5 /* TipsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsterUITests.swift; sourceTree = "<group>"; };
 		7F9F6D3F1C2A204D0040ACE5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F9F6D4F1C2C3EEB0040ACE5 /* SettingsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewController.swift; sourceTree = "<group>"; };
+		7F9F6D511C2CC2AF0040ACE5 /* DefaultTipViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefaultTipViewController.swift; sourceTree = "<group>"; };
+		7F9F6D531C34CBDE0040ACE5 /* DefaultCircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DefaultCircle.jpg; path = ../../../../Documents/DefaultCircle.jpg; sourceTree = "<group>"; };
+		7F9F6D551C34E05B0040ACE5 /* cherryCircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cherryCircle.jpg; path = ../../../../Documents/cherryCircle.jpg; sourceTree = "<group>"; };
+		7F9F6D571C34E4810040ACE5 /* cakecircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cakecircle.jpg; path = ../../../../Documents/cakecircle.jpg; sourceTree = "<group>"; };
+		7F9F6D591C34E8FE0040ACE5 /* strawberrycircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = strawberrycircle.jpg; path = ../../../../Documents/strawberrycircle.jpg; sourceTree = "<group>"; };
+		7F9F6D5B1C34EBE40040ACE5 /* lilaccircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lilaccircle.jpg; path = ../../../../Documents/lilaccircle.jpg; sourceTree = "<group>"; };
+		7F9F6D5D1C352FAD0040ACE5 /* autumncircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = autumncircle.jpg; path = ../../../../Documents/autumncircle.jpg; sourceTree = "<group>"; };
+		7F9F6D5F1C3530710040ACE5 /* chocolatecircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chocolatecircle.jpg; path = ../../../../Documents/chocolatecircle.jpg; sourceTree = "<group>"; };
+		7F9F6D611C3534330040ACE5 /* coolcircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = coolcircle.jpg; path = ../../../../Documents/coolcircle.jpg; sourceTree = "<group>"; };
+		7F9F6D631C3534E10040ACE5 /* campcircle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = campcircle.jpg; path = ../../../../Documents/campcircle.jpg; sourceTree = "<group>"; };
+		7F9F6D651C35DEED0040ACE5 /* coverpercent.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = coverpercent.jpg; path = ../../../../Documents/coverpercent.jpg; sourceTree = "<group>"; };
+		7F9F6D671C35ECF30040ACE5 /* ThemesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +103,7 @@
 		7F9F6D111C2A204C0040ACE5 = {
 			isa = PBXGroup;
 			children = (
+				7F9F6D4F1C2C3EEB0040ACE5 /* SettingsTableViewController.swift */,
 				7F9F6D1C1C2A204C0040ACE5 /* Tipster */,
 				7F9F6D311C2A204D0040ACE5 /* TipsterTests */,
 				7F9F6D3C1C2A204D0040ACE5 /* TipsterUITests */,
@@ -99,6 +126,18 @@
 			children = (
 				7F9F6D1D1C2A204C0040ACE5 /* AppDelegate.swift */,
 				7F9F6D1F1C2A204C0040ACE5 /* ViewController.swift */,
+				7F9F6D671C35ECF30040ACE5 /* ThemesViewController.swift */,
+				7F9F6D631C3534E10040ACE5 /* campcircle.jpg */,
+				7F9F6D611C3534330040ACE5 /* coolcircle.jpg */,
+				7F9F6D5F1C3530710040ACE5 /* chocolatecircle.jpg */,
+				7F9F6D5D1C352FAD0040ACE5 /* autumncircle.jpg */,
+				7F9F6D5B1C34EBE40040ACE5 /* lilaccircle.jpg */,
+				7F9F6D591C34E8FE0040ACE5 /* strawberrycircle.jpg */,
+				7F9F6D571C34E4810040ACE5 /* cakecircle.jpg */,
+				7F9F6D551C34E05B0040ACE5 /* cherryCircle.jpg */,
+				7F9F6D531C34CBDE0040ACE5 /* DefaultCircle.jpg */,
+				7F9F6D511C2CC2AF0040ACE5 /* DefaultTipViewController.swift */,
+				7F9F6D651C35DEED0040ACE5 /* coverpercent.jpg */,
 				7F9F6D211C2A204C0040ACE5 /* Main.storyboard */,
 				7F9F6D241C2A204C0040ACE5 /* Assets.xcassets */,
 				7F9F6D261C2A204C0040ACE5 /* LaunchScreen.storyboard */,
@@ -232,9 +271,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F9F6D5A1C34E8FE0040ACE5 /* strawberrycircle.jpg in Resources */,
 				7F9F6D281C2A204C0040ACE5 /* LaunchScreen.storyboard in Resources */,
 				7F9F6D251C2A204C0040ACE5 /* Assets.xcassets in Resources */,
 				7F9F6D231C2A204C0040ACE5 /* Main.storyboard in Resources */,
+				7F9F6D661C35DEED0040ACE5 /* coverpercent.jpg in Resources */,
+				7F9F6D641C3534E10040ACE5 /* campcircle.jpg in Resources */,
+				7F9F6D561C34E05B0040ACE5 /* cherryCircle.jpg in Resources */,
+				7F9F6D621C3534330040ACE5 /* coolcircle.jpg in Resources */,
+				7F9F6D5C1C34EBE40040ACE5 /* lilaccircle.jpg in Resources */,
+				7F9F6D5E1C352FAD0040ACE5 /* autumncircle.jpg in Resources */,
+				7F9F6D541C34CBDE0040ACE5 /* DefaultCircle.jpg in Resources */,
+				7F9F6D601C3530710040ACE5 /* chocolatecircle.jpg in Resources */,
+				7F9F6D581C34E4810040ACE5 /* cakecircle.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +310,9 @@
 			files = (
 				7F9F6D201C2A204C0040ACE5 /* ViewController.swift in Sources */,
 				7F9F6D1E1C2A204C0040ACE5 /* AppDelegate.swift in Sources */,
+				7F9F6D521C2CC2AF0040ACE5 /* DefaultTipViewController.swift in Sources */,
+				7F9F6D501C2C3EEB0040ACE5 /* SettingsTableViewController.swift in Sources */,
+				7F9F6D681C35ECF30040ACE5 /* ThemesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,6 +453,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tipster/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = stefepp.Tipster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -412,6 +465,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tipster/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = stefepp.Tipster;
 				PRODUCT_NAME = "$(TARGET_NAME)";
